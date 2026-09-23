@@ -1,0 +1,15 @@
+[
+	{
+		"tosversion" : "20260923",
+		"name" : "Item Drops 2 New Code",
+		"file" : "itemdrops2newcode",
+		"extension" : "ipf",
+		"fileVersion" : "v1.0.2",
+		"releaseTag" : "v1.0.2",
+		"unicode" : "⛄",
+		"description" : "This is simplify version of item drops 2 by Toukibi's ItemDrops2 and integrated colored item name byTehSeph's ColoredItemName",
+		"tags" : [
+			"item",
+			"effect"
+		]
+	},
